@@ -197,7 +197,7 @@ echo '<!DOCTYPE html>
     local SEO expert</a> in Pakistan with a proven track record of helping businesses grow their online presence. He specializes in localized keyword research, GMB optimization, and personalized SEO strategies.</p>
                 </div>
                 <div class="about-saleem-img">
-                    <img src="https://images.unsplash.com/photo-1529655721031-d5b942f12e8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Abdullah Saleem">
+                    <img src="https://lh5.googleusercontent.com/_kOU87Sw7zm_fpe6hp76X4C4Y-jusDs7NHuhT6y4hEnApPcQuGIQswVfpD9a8NvZ6ZnSgEpOV22ZJQXJgLlKT-ukRudmi8lFuCmoyAtsNAAo0tJT4GmgpiEg4a8t7io5sQ=w1280" alt="Abdullah Saleem">
                 </div>
             </div>
         </div>
