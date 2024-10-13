@@ -181,32 +181,38 @@ echo '<!DOCTYPE html>
 
         <div class="content-box">
             <h2>6. Ability to Handle Multilingual SEO</h2>
-    <p>A Pakistani SEO expert is better equipped to handle <strong>multilingual SEO</strong>, optimizing content in both English and Urdu, thus effectively targeting a broader audience. This skill is particularly beneficial in a linguistically diverse country like Pakistan.</p>
+    <p>A Pakistani SEO expert is better equipped to handle <strong>multilingual SEO</strong> for businesses targeting Urdu-speaking audiences alongside English-speaking customers. They know how to:</p>
+    <ul>
+        <li>Optimize <strong>bilingual content</strong> (English and Urdu)</li>
+        <li>Use local keywords in different scripts</li>
+        <li>Create <strong>meta titles and descriptions</strong> that resonate with the audience</li>
+    </ul>
         </div>
 
         <div class="content-box">
-            <h2>Conclusion: The Right Choice Matters</h2>
-    <p>Choosing between a local SEO expert in Pakistan and a global SEO specialist boils down to understanding the business’s goals and the audience they aim to target. Local SEO experts bring invaluable insights into the local market, cultural nuances, and tailored strategies that can help businesses achieve greater visibility and engagement.</p>
+           <h2>7. Focus on Geo-Targeting and Regional Preferences</h2>
+    <p>For businesses targeting <strong>specific cities or regions in Pakistan</strong>, a local SEO expert can implement <strong>geo-targeted strategies</strong> such as running <strong>location-based ads</strong> and setting up <strong>geo-modifiers</strong> in keywords.</p>
         </div>
 
-        <div class="content-box">
-            <h2>About Abdullah Saleem</h2>
-            <div class="about-saleem">
-                <div class="about-saleem-text">
-                    <p><strong>Abdullah Saleem</strong> is a dedicated <a href="https://abdullahsaleem.net" target="_blank">
-    local SEO expert</a> in Pakistan with a proven track record of helping businesses grow their online presence. He specializes in localized keyword research, GMB optimization, and personalized SEO strategies.</p>
-                </div>
-                <div class="about-saleem-img">
-                    <img src="https://lh5.googleusercontent.com/_kOU87Sw7zm_fpe6hp76X4C4Y-jusDs7NHuhT6y4hEnApPcQuGIQswVfpD9a8NvZ6ZnSgEpOV22ZJQXJgLlKT-ukRudmi8lFuCmoyAtsNAAo0tJT4GmgpiEg4a8t7io5sQ=w1280" alt="Abdullah Saleem">
-                </div>
+        <!-- About Abdullah Saleem Section with Image -->
+        <div class="content-box about-saleem">
+            <div class="about-saleem-text">
+                <h2>About Abdullah Saleem – Your SEO Expert for Local and Global SEO</h2>
+                <p>I am Abdullah Saleem, an experienced SEO expert specializing in both Local SEO and Global SEO. For the past four years, I’ve had the privilege of serving clients from the US, Dubai, UK, and Canada, helping them achieve higher search engine rankings and increase online visibility. My experience in Local SEO strategies has enabled me to assist businesses in Pakistan and abroad in gaining a competitive edge within their respective regions. Whether you need to rank locally in a Pakistani city or establish your presence on the global stage, I can develop custom SEO solutions tailored to your business needs.</p>
+            </div>
+            <div class="about-saleem-img">
+                <img src="https://lh5.googleusercontent.com/_kOU87Sw7zm_fpe6hp76X4C4Y-jusDs7NHuhT6y4hEnApPcQuGIQswVfpD9a8NvZ6ZnSgEpOV22ZJQXJgLlKT-ukRudmi8lFuCmoyAtsNAAo0tJT4GmgpiEg4a8t7io5sQ=w1280" alt="Abdullah Saleem">
             </div>
         </div>
 
         <div class="content-box">
-            <h2>Contact Me</h2>
-            <p>If you are looking to boost your local SEO efforts and want to partner with an expert in Pakistan, feel free to <a href="https://abdullahsaleem.net/contact" target="_blank">contact me</a>. Let’s work together to enhance your online visibility!</p>
+            <h2>Conclusion: Which SEO Expert Is Right for You?</h2>
+    <p>Choosing between a <a href="https://sites.google.com/view/abdullahsaleemseo/" target="_blank">
+    <strong>local SEO expert in Pakistan</strong>
+</a> and a <strong>global SEO specialist</strong> depends on your business goals. If you want to <strong>attract customers locally</strong>, a local SEO expert like me can help you. For <strong>global visibility</strong>, a global SEO specialist might be the right fit. With my experience in <strong>both domains</strong>, I ensure your business stands out <strong>locally and globally</strong>, driving sustainable growth and long-term success.</p>
         </div>
     </div>
+
 </body>
 </html>';
 ?>
