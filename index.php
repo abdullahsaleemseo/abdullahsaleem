@@ -124,7 +124,7 @@ echo '<!DOCTYPE html>
     <!-- Main Content Section -->
     <div class="container">
         <div class="content-box">
-            <p>When businesses seek to boost their visibility online, hiring the right SEO expert is critical. However, deciding between a <a href="https://abdullahsaleem.net" target="_blank">
+            <p>When businesses seek to boost their visibility online, hiring the right SEO expert is critical. However, deciding between a <a href="https://www.abdullahsaleem.net" target="_blank">
     <strong>local SEO expert in Pakistan</strong>
 </a> and a <strong>global SEO specialist</strong> can be challenging. While both bring valuable skills to the table, each operates with unique strengths and strategies tailored to specific needs. In this article, we’ll explore the distinct traits that set a <strong>local SEO expert in Pakistan</strong> apart from global counterparts and discuss why businesses targeting both local and international markets should carefully choose the right expert.</p>
         </div>
