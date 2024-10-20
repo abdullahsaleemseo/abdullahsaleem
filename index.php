@@ -201,7 +201,7 @@ echo '<!DOCTYPE html>
                 <p>I am Abdullah Saleem, an experienced SEO expert specializing in both Local SEO and Global SEO. For the past four years, I’ve had the privilege of serving clients from the US, Dubai, UK, and Canada, helping them achieve higher search engine rankings and increase online visibility. My experience in Local SEO strategies has enabled me to assist businesses in Pakistan and abroad in gaining a competitive edge within their respective regions. Whether you need to rank locally in a Pakistani city or establish your presence on the global stage, I can develop custom SEO solutions tailored to your business needs.</p>
             </div>
             <div class="about-saleem-img">
-                <img src="https://lh6.googleusercontent.com/JC8Vndk8B9wa8OLcFtG6fewk7U2Qca7LPePW4XMICTNsFVZpZhXR5YFq0lWXaIvy6tzaExioeXRS5mxOD-Zv_7jOEU_PeTB7EhFzdoRsaTvyRP4WYjBkOOQfMWD5uyOv-g=w1280" alt="Abdullah Saleem">
+                <img src="https://scontent.flhe44-1.fna.fbcdn.net/v/t39.30808-6/452871335_1010676567132887_5348400626731422588_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE44Of_8zJUmai22lPZ1wHwoe_9ZYMI_Tyh7_1lgwj9PKXf5LlVgl7kSMFLGxVbLwNwNb3x7WRsJqZqpHB0hedi&_nc_ohc=I0xR1WAK6AcQ7kNvgEBYVE4&_nc_zt=23&_nc_ht=scontent.flhe44-1.fna&_nc_gid=Au_WL59QAHaxOrMIdV8VEUx&oh=00_AYDecaeR32syV-syVngpkjX9w1us7uJKKrLKRWHLk1UzWg&oe=671B1284" alt="Abdullah Saleem">
             </div>
         </div>
 
